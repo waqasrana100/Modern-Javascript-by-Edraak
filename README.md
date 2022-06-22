@@ -1,7 +1,5 @@
 # Modern-Javascript-by-Edraak
 All the course files are here
-# Modern-Javascript-by-Edraak
-All the course files are here
 All lecture files from the Modern JavaScript Youtube Edraak are here
 
 # *How to use this repository*
