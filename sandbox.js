@@ -1,13 +1,20 @@
-//this is age
-let age = 25;
-//this is year
-let year = 2022
-const points = 20;
-console.log(age, year, points);
+//string
+console.log("i am rana waqas")
+let email = "iamwaqas@gmail.com"
+console.log(email);
 
-age =30
-console.log(age);
+//string concatenation
+let firstName = "Beautiful";
+let lastName = "People"
+let fullName = firstName +' '+ lastName ;
+console.log(fullName)
+//getting characters
+console.log(fullName[4])
+//string length
+console.log(fullName.length)
 
-var score = 40;
+// string methods
 
-console.log(score)
+console.log(fullName.toUpperCase())
+let result = fullName.toLocaleLowerCase()
+console.log(result , fullName)
