@@ -1,20 +1,28 @@
-//string
-console.log("i am rana waqas")
-let email = "iamwaqas@gmail.com"
-console.log(email);
+// let radius = 10;
+// const pi = 3.14;
 
-//string concatenation
-let firstName = "Beautiful";
-let lastName = "People"
-let fullName = firstName +' '+ lastName ;
-console.log(fullName)
-//getting characters
-console.log(fullName[4])
-//string length
-console.log(fullName.length)
+// console.log(radius, pi);
 
-// string methods
+// math operation +,-,*,/,%,**
 
-console.log(fullName.toUpperCase())
-let result = fullName.toLocaleLowerCase()
-console.log(result , fullName)
+// console.log(10/2);
+
+// const areaOfCircle = pi*radius**2;
+// console.log(areaOfCircle);
+
+//math  B I D M A S
+
+// const result = 5 * (10-5)**2;
+// console.log(result);
+
+// console.log(radius % 3)
+
+// NaN
+// console.log(3*"waqas")
+// console.log(3 - "4")
+let likes = 10;
+
+// likes = likes +1 ;
+// likes +=12
+likes -=4
+console.log(likes)
